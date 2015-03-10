@@ -1,0 +1,2 @@
+# machetecoin
+machetecoin
